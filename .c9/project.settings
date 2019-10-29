@@ -20,7 +20,14 @@
     "run": {
         "configs": {
             "@inited": "true",
-            "json()": {}
+            "json()": {
+                "python3 run.py": {
+                    "command": "templates/index.html",
+                    "name": "python3 run.py",
+                    "runner": "Shell command",
+                    "toolbar": true
+                }
+            }
         }
     },
     "welcome": {

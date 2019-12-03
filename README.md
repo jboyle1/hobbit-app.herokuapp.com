@@ -1,4 +1,4 @@
-### hobbit-app.herokuapp.com
+### https://hobbit-app.herokuapp.com/
 
 ## Name of Project: Hobbit fan page 
 
